@@ -1,3 +1,3 @@
 # Hello_world
 Learning to use GIT
-Første versjon
+Første MASTER versjon
